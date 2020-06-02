@@ -2,6 +2,14 @@
 
 A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
 
+## Legend:
+
+### [CATEGORY]
+
+#### [NAME OF FREE AND OPEN SOURCE SERVICE] (LINK)
+
+*Alternative to [PROPRIETARY SERVICE(S)]* — [DESCRIPTION]
+
 ## [Federated](https://en.wikipedia.org/wiki/Federation_(information_technology))
 
 ### [Social media](https://en.wikipedia.org/wiki/Social_media)
