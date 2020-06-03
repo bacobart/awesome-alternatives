@@ -24,7 +24,7 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 *Alternative to Twitter* — Mastodon is a free and open-source self-hosted social networking service. It allows anyone to host their own server node in the network, and its various separately operated user bases are federated across many different servers.
 
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(software))
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(software))*
 
 ### [Pixelfed](https://pixelfed.social/)
 
