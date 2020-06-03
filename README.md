@@ -24,18 +24,18 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 *Alternative to Twitter* — Mastodon is a free and open-source self-hosted social networking service. It allows anyone to host their own server node in the network, and its various separately operated user bases are federated across many different servers.
 
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(software))*
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(software)).*
 
 ### [Pixelfed](https://pixelfed.social/)
 
 *Alternative to Instagram* — A free and ethical photo sharing platform, powered by ActivityPub federation.
 
-*Text from [Github](https://github.com/pixelfed/pixelfed)*
+*Text from [GitHub](https://github.com/pixelfed/pixelfed).*
 
 ### [Friendica](https://friendi.ca/)
 
 *Alternative to Facebook* — Friendica is an open, free, distributed social network. It forms one part of the Fediverse, an interconnected and decentralized network of independently operated servers. 
 
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Friendica)*
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Friendica).*
 
 
