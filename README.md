@@ -10,7 +10,7 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 *Alternative to [PROPRIETARY SERVICE(S)]* — [DESCRIPTION]
 
-## [Federated](https://en.wikipedia.org/wiki/Federation_(information_technology)) software has a +
+## [Federated Services](https://en.wikipedia.org/wiki/Federation_(information_technology))  have a +
 
 ### [Social media](https://en.wikipedia.org/wiki/Social_media)
 
