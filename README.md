@@ -12,9 +12,9 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 ## [Federated Services](https://en.wikipedia.org/wiki/Federation_(information_technology))  have a +
 
-### [Social media](https://en.wikipedia.org/wiki/Social_media)
+## [Social media](https://en.wikipedia.org/wiki/Social_media)
 
-#### [PeerTube](https://joinpeertube.org/instances)+
+### [PeerTube](https://joinpeertube.org/instances)+
 
 *Alternative to YouTube* — PeerTube is a free and open-source, [decentralized](https://en.wikipedia.org/wiki/Decentralization), federated video platform, powered by [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub) and [WebTorrent](https://en.wikipedia.org/wiki/WebTorrent), that uses [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) technology to reduce load on individual servers when viewing videos. You can like, comment, download videos, subscribe to channels, create playlists all for free, as well as create your own instance.
 
@@ -38,40 +38,89 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Friendica).*
 
-### [Communication Platforms](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+## [Communication Platforms](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
-#### [Matrix](https://matrix.org/)+
+### [Matrix](https://matrix.org/)+
 
 *Alternative to Discord* — Matrix is an open standard and lightweight protocol for real-time communication. It is designed to allow users with accounts at one communications service provider to communicate with users of a different service provider via online chat, voice over IP, and videotelephony. The most popular way to interact with matrix is through [Riot](https://riot.im/)
 
-#### [Mattermost](https://mattermost.com/)
+### [Mattermost](https://mattermost.com/)
 
 *Alternative to Slack* — Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams. 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Mattermost)*
 
-#### [zulipchat](https://zulipchat.com/)
+### [zulipchat](https://zulipchat.com/)
 
 *Alternative to Slack* — In Zulip, communication occurs in streams (which are like channels in IRC). Each stream can have several topics - Zulip features a unique threading model, in which each message also has a topic, along with the content. Zulip claims that this improves productivity by "making easy to catch up after a day of meetings". Apart from this, Zulip offers standard features found in collaboration apps like message reactions, message search history, polls, private messaging, group messaging etc. Zulip streams can be private or public.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Zulip)*
 
-#### [Telegram](https://telegram.org/)
+### [Telegram](https://telegram.org/)
 
 *Alternative to WhatsApp* — Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows, macOS and Linux.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Telegram_(software))*
 
-#### [Signal](https://signal.org/en/)
+### [Signal](https://signal.org/en/)
 
 *Alternative to WhatsApp/SMS* — Signal is a cross-platform encrypted messaging service developed by the Signal Foundation and Signal Messenger LLC. It uses the Internet to send one-to-one and group messages, which can include files, voice notes, images and videos. Its mobile apps can also make one-to-one voice and video calls 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))*
 
-#### [Session](https://getsession.org/)
+### [Session](https://getsession.org/)
 
 *Alternative to WhatsApp* — Session masters the usual chat functions. There are voice messages, a GIF search (with privacy warning), file sharing and group chats. You can add new contacts by scanning a QR code or exchanging the session ID. You can share your groups via a link. Another advantage over Signal or Telegram is end-to-end encrypted group chats. Up to ten people can network fully anonymously via session. Yes, WhatsApp also has encrypted group chats. But your metadata, phone numbers, and IP addresses remain visible to Facebook. Session is completely unsuspecting.
 
 *Text from [Androidpit](https://www.androidpit.com/session-messenger-review)*
 
+## Miscellaneous services
 
+### [Nextcloud](https://nextcloud.com/)
+
+*Alternative to Google Drive/Dropbox* — Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud is free and open-source, which means that anyone is allowed to install and operate it on their own private server devices.
+
+Nextcloud application functionally is similar to Dropbox, Office 365 or Google Drive, but can be used on home-local computers or for off-premises file storage hosting. Office functionality is limited to x86/x64 based servers as OnlyOffice does not support ARM processors. In contrast to proprietary services the open architecture enables users to have full control of their data.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Nextcloud)*
+
+### [CryptPad](https://cryptpad.fr/)
+
+*Alternative to Google Docs* — CryptPad is a private-by-design alternative to popular office tools and cloud services. All the content stored on CryptPad is encrypted before being sent
+
+*Text from [CryptPad](https://cryptpad.fr/)
+
+### [LimeSurvey](https://www.limesurvey.org/)
+
+*Alternative to Google Forms* — is a free and open source on-line statistical survey web app written in PHP based on a MySQL, SQLite, PostgreSQL or MSSQL database, distributed under the GNU General Public License. As a web server-based software it enables users using a web interface to develop and publish on-line surveys, collect responses, create statistics, and export the resulting data to other applications. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/LimeSurvey)
+
+### [AuroraOSS](https://auroraoss.com/)
+
+*Alternative to Google Play* — Aurora Store is an Unofficial FOSS client to Google's Play Store
+
+*Text from [AuroraOSS](https://auroraoss.com/)*
+
+### [F-Droid](https://f-droid.org/)
+
+*[OSS](https://en.wikipedia.org/wiki/Open-source_software) Alternative to Google Play* — F-Droid is a community-maintained software repository for Android, similar to the Google Play store. The main repository, hosted by the project, contains only free/libre apps.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/F-Droid)*
+
+### [Searx](https://en.wikipedia.org/wiki/Searx)
+
+*Alternative to Google Search* — searx is a free metasearch engine, available under the GNU Affero General Public License version 3, with the aim of protecting the privacy of its users. To this end, searx does not share users' IP addresses or search history with the search engines from which it gathers results. Tracking cookies served by the search engines are blocked
+
+**Main Searx Instances**
+https://searx.me/
+https://searx.be/
+https://searx.ninja/
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Searx)*
+
+### [Jitsi](https://jitsi.org)
+
+*Alternative to Zoom* — Jitsi is a collection of free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi)*
