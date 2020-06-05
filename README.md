@@ -1,6 +1,6 @@
 # Awesome Alternatives
 
-A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) and services. Some of the software below has proprietary backend, and only the application or the frontend the user interacts with is open source. Anything not fully FOSS is marked with a $ symbol.
 
 ## Legend:
 
@@ -25,6 +25,12 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 *Alternative to Twitter* — Mastodon is a free and open-source self-hosted social networking service. It allows anyone to host their own server node in the network, and its various separately operated user bases are federated across many different servers.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(software)).*
+
+### [Lemmy](https://dev.lemmy.ml/)+
+
+*Alternative to Reddit* — Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them. Behind the scenes, it is very different; anyone can easily run a server, and all these servers are federated (think email), and connected to the same universe, called the Fediverse.
+
+*Text from [Github](https://github.com/LemmyNet/lemmy)*
 
 ### [Pixelfed](https://pixelfed.social/)+
 
@@ -56,7 +62,7 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Zulip)*
 
-### [Telegram](https://telegram.org/)
+### [Telegram](https://telegram.org/)$
 
 *Alternative to WhatsApp* — Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows, macOS and Linux.
 
