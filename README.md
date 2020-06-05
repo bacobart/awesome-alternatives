@@ -74,6 +74,12 @@ A curated list of [*free* and open source](https://en.wikipedia.org/wiki/Free_an
 
 *Text from [Androidpit](https://www.androidpit.com/session-messenger-review)*
 
+### [Jitsi](https://jitsi.org)
+
+*Alternative to Zoom* — Jitsi is a collection of free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi)*
+
 ## Miscellaneous services
 
 ### [Nextcloud](https://nextcloud.com/)
@@ -118,9 +124,3 @@ https://searx.be/
 https://searx.ninja/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Searx)*
-
-### [Jitsi](https://jitsi.org)
-
-*Alternative to Zoom* — Jitsi is a collection of free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android.
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi)*
