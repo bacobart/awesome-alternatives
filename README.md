@@ -94,13 +94,13 @@ Nextcloud application functionally is similar to Dropbox, Office 365 or Google D
 
 *Alternative to Google Docs* — CryptPad is a private-by-design alternative to popular office tools and cloud services. All the content stored on CryptPad is encrypted before being sent
 
-*Text from [CryptPad](https://cryptpad.fr/)
+*Text from [CryptPad](https://cryptpad.fr/)*
 
 ### [LimeSurvey](https://www.limesurvey.org/)
 
 *Alternative to Google Forms* — is a free and open source on-line statistical survey web app written in PHP based on a MySQL, SQLite, PostgreSQL or MSSQL database, distributed under the GNU General Public License. As a web server-based software it enables users using a web interface to develop and publish on-line surveys, collect responses, create statistics, and export the resulting data to other applications. 
 
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/LimeSurvey)
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/LimeSurvey)*
 
 ### [AuroraOSS](https://auroraoss.com/)
 
