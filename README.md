@@ -134,3 +134,40 @@ https://searx.be/
 https://searx.ninja/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Searx)*
+
+### [LibreOffice](https://www.libreoffice.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [OnlyOffice Community Edition](https://www.onlyoffice.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternatives to Microsoft Office* — LibreOffice: LibreOffice is a free and open-source office suite, a project of The Document Foundation. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/LibreOffice)*
+
+OnlyOffice: ONLYOFFICE is a project developed by experienced IT experts from Ascensio System SIA, leading IT company with headquarters in Riga, Latvia. Originally ONLYOFFICE was designed for internal team collaboration.
+
+*Text from [OnlyOffice](https://www.onlyoffice.com/about.aspx)
+
+
+### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [Krita](https://krita.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternatives to Photoshop* — GIMP: GNU Image Manipulation Program is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/GIMP)*
+
+Krita: Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks (similar to Adobe Photoshop), group-based layer management, vector artwork support and switchable customisation profiles. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Krita)*
+
+### [Inkscape](https://inkscape.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternatives to Adobe Illiustrator* — Inkscape is a free and open-source vector graphics editor. Inkscape's primary vector graphics format is Scalable Vector Graphics (SVG); other formats can be imported and exported.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Inkscape)*
+
+### [BitWarden](https://bitwarden.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [KeePassXC](https://keepassxc.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternatives to Proprietary Password Managers* — Bitwarden: Bitwarden is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault. The Bitwarden platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a CLI.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Bitwarden)*
+
+KeePassXC: The Electronic Frontier Foundation mention KeePassXC as "an example of a password manager that is open-source and free."The tech collective PrivacyTools has included KeePassXC in their list of recommended password manager software because of its active development.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/KeePassXC)*
