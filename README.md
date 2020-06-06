@@ -80,7 +80,7 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 ### [Briar](https://code.briarproject.org/briar/briar) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
-*Alternative to WhatsApp — Briar is an open-source software communication technology, intended to provide secure and resilient peer-to-peer communications with no centralized servers and minimal reliance on external infrastructure. Connections are made through bluetooth, WiFi, or over the internet via Tor and all private communication is end-to-end encrypted.
+*Alternative to WhatsApp* — Briar is an open-source software communication technology, intended to provide secure and resilient peer-to-peer communications with no centralized servers and minimal reliance on external infrastructure. Connections are made through bluetooth, WiFi, or over the internet via Tor and all private communication is end-to-end encrypted.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Briar_(software))*
 
