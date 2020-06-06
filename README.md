@@ -143,7 +143,7 @@ https://searx.ninja/
 
 OnlyOffice: ONLYOFFICE is a project developed by experienced IT experts from Ascensio System SIA, leading IT company with headquarters in Riga, Latvia. Originally ONLYOFFICE was designed for internal team collaboration.
 
-*Text from [OnlyOffice](https://www.onlyoffice.com/about.aspx)
+*Text from [OnlyOffice](https://www.onlyoffice.com/about.aspx)*
 
 
 ### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [Krita](https://krita.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
