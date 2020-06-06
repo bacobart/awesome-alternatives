@@ -12,31 +12,31 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 ## [Social media](https://en.wikipedia.org/wiki/Social_media)
 
-### [PeerTube](https://joinpeertube.org/instances) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)
+### [PeerTube](https://joinpeertube.org/instances) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to YouTube* — PeerTube is a free and open-source, [decentralized](https://en.wikipedia.org/wiki/Decentralization), federated video platform, powered by [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub) and [WebTorrent](https://en.wikipedia.org/wiki/WebTorrent), that uses [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) technology to reduce load on individual servers when viewing videos. You can like, comment, download videos, subscribe to channels, create playlists all for free, as well as create your own instance.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/PeerTube).*
 
-### [Mastodon](https://joinmastodon.org) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)
+### [Mastodon](https://joinmastodon.org) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Twitter* — Mastodon is a free and open-source self-hosted social networking service. It allows anyone to host their own server node in the network, and its various separately operated user bases are federated across many different servers.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(software)).*
 
-### [Lemmy](https://dev.lemmy.ml/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)
+### [Lemmy](https://dev.lemmy.ml/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Reddit* — Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them. Behind the scenes, it is very different; anyone can easily run a server, and all these servers are federated (think email), and connected to the same universe, called the Fediverse.
 
 *Text from [Github](https://github.com/LemmyNet/lemmy)*
 
-### [Pixelfed](https://pixelfed.social/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)
+### [Pixelfed](https://pixelfed.social/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Instagram* — A free and ethical photo sharing platform, powered by ActivityPub federation.
 
 *Text from [GitHub](https://github.com/pixelfed/pixelfed).*
 
-### [Friendica](https://friendi.ca/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)
+### [Friendica](https://friendi.ca/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Facebook* — Friendica is an open, free, distributed social network. It forms one part of the Fediverse, an interconnected and decentralized network of independently operated servers. 
 
@@ -44,7 +44,7 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 ## [Communication Platforms](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
-### [Matrix](https://matrix.org/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)
+### [Matrix](https://matrix.org/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Discord* — Matrix is an open standard and lightweight protocol for real-time communication. It is designed to allow users with accounts at one communications service provider to communicate with users of a different service provider via online chat, voice over IP, and videotelephony. The most popular way to interact with matrix is through [Riot](https://riot.im/)
 
