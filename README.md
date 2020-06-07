@@ -171,3 +171,11 @@ Krita: Krita is a free and open-source raster graphics editor designed primarily
 KeePassXC: The Electronic Frontier Foundation mention KeePassXC as "an example of a password manager that is open-source and free."The tech collective PrivacyTools has included KeePassXC in their list of recommended password manager software because of its active development.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/KeePassXC)*
+
+## External sources
+
+### [samedamci / FOSS_Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff)
+
+A more in-depth list of free and open source software ranging from Android, to Windows, to Linux with a bonus of some tips and tricks!
+
+Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* and *[GitLab](https://gitlab.com/samedamci/FOSS_Stuff)*.
