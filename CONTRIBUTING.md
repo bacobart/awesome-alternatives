@@ -1,14 +1,16 @@
 # Contributing
 
-We are open to contributing! If you have advices and propositions please give them to us applying to the following rules. This is for better organization so if you can - follow the rules.
+We are open to contributing! If you have some advice and propositions, please suggest them to us. While we do appreciate poorly submitted issues/pull requests, we will appreciate a lot if you take your time to properly write them while also following the guidelines below.
 
 ## Issues
+
 + If you want to add new entry try to provide:
 	+ Category
 	+ Name & Link of alternative
 	+ What is it replacing?
 
 ## Pull requests
+
 + We ask you follow this format:  
 
 \#\# Legend:
