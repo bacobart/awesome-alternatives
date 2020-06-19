@@ -11,8 +11,8 @@ We are open to contributing! If you have advices and propositions please give th
 ## Pull requests
 + We ask you follow this format:  
 
-    `[CATEGORY]
+    ```[CATEGORY]
     
 [NAME OF FREE AND OPEN SOURCE SERVICE](LINK)
 
-Alternative to [PROPRIETARY SERVICE(S)] — [DESCRIPTION]`
+Alternative to [PROPRIETARY SERVICE(S)] — [DESCRIPTION]```
