@@ -1,15 +1,7 @@
 # Awesome Alternatives
 
 A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) and services. Some of the software below has proprietary backend, and only the application or the frontend the user interacts with is open source. 
-
-## Legend:
-
-### [CATEGORY]
-
-#### [NAME OF FREE AND OPEN SOURCE SERVICE] (LINK)
-
-*Alternative to [PROPRIETARY SERVICE(S)]* — [DESCRIPTION]
-
+---
 ## [Social media](https://en.wikipedia.org/wiki/Social_media)
 
 ### [PeerTube](https://joinpeertube.org/instances) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
@@ -178,4 +170,4 @@ KeePassXC: The Electronic Frontier Foundation mention KeePassXC as "an example o
 
 A more in-depth list of free and open source software ranging from Android, to Windows, to Linux with a bonus of some tips and tricks!
 
-Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* and *[GitLab](https://gitlab.com/samedamci/FOSS_Stuff).*
+Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https://gitlab.com/samedamci/FOSS_Stuff), and [Gitea](https://git.samedamci.me/samedamci/FOSS_Stuff).*
