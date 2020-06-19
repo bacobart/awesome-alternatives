@@ -11,8 +11,10 @@ We are open to contributing! If you have advices and propositions please give th
 ## Pull requests
 + We ask you follow this format:  
 
-    ```[CATEGORY]
-    
-[NAME OF FREE AND OPEN SOURCE SERVICE](LINK)
+\#\# Legend:
 
-Alternative to [PROPRIETARY SERVICE(S)] — [DESCRIPTION]```
+\#\#\# [CATEGORY]
+
+\#\#\#\# \[NAME OF FREE AND OPEN SOURCE SERVICE](LINK)
+
+\*Alternative to [PROPRIETARY SERVICE(S)]\* — [DESCRIPTION]
