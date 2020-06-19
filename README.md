@@ -170,4 +170,4 @@ KeePassXC: The Electronic Frontier Foundation mention KeePassXC as "an example o
 
 A more in-depth list of free and open source software ranging from Android, to Windows, to Linux with a bonus of some tips and tricks!
 
-Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* and *[GitLab](https://gitlab.com/samedamci/FOSS_Stuff).*
+Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https://gitlab.com/samedamci/FOSS_Stuff), and [Gitea](https://git.samedamci.me/samedamci/FOSS_Stuff).*
