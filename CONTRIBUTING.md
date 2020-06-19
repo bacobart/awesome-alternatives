@@ -13,8 +13,10 @@ We are open to contributing! If you have advices and propositions please give th
 
 \#\# Legend:
 
-\#\#\# [CATEGORY]
+\#\#\# [Category]
 
-\#\#\#\# \[NAME OF FREE AND OPEN SOURCE SERVICE](LINK)
+\#\#\#\# \[FOSS Service/App](LINK) \[Any badges that apply go here]\*
 
-\*Alternative to [PROPRIETARY SERVICE(S)]\* — [DESCRIPTION]
+\*Alternative to [Proprietary Service/App]\* — [Description]
+
+\* Badges may include: `[![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg)` | `[![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)` | `[![Generic badge](https://img.shields.io/badge/FOSS-Not_Fully-red.svg)](https://img.shields.io/badge/FOSS-Not_Fully-red.svg)`
