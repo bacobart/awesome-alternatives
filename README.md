@@ -84,6 +84,12 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 ## Miscellaneous services
 
+### [OsmAnd~](https://osmand.net/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Google Maps & similar services* — (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. Enjoy voice and optical navigation, viewing POIs (points of interest), creating and managing GPX tracks, using contour lines visualization and altitude info, a choice between driving, cycling, pedestrian modes, OSM editing and much more.
+
+*Text from [F-Droid](https://f-droid.org/en/packages/net.osmand.plus/)*
+
 ### [Nextcloud](https://nextcloud.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Google Drive/Dropbox* — Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud is free and open-source, which means that anyone is allowed to install and operate it on their own private server devices.
