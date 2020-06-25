@@ -82,6 +82,18 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi).*
 
+### [Delta Chat](https://delta.chat/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number**
+
+*Alternative to WhatsApp* — Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account.
+
+*Text from [delta.chat](https://delta.chat/en/).*
+
+### [K-9 Mail](https://k9mail.app/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Gmail/Outlook* — K-9 Mail is an independent email application for the Android operating system. It is made available as Free/Open Source Android Software under the Apache License version 2.0. The program is marketed as a more functional replacement for the default mail application included on most phones.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/K-9_Mail).*
+
 ## Miscellaneous services
 
 ### [OsmAnd~](https://osmand.net/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
