@@ -1,5 +1,5 @@
 # These are links to the greater Linux Café community.
-### Legend, All services will link to the homepage of their respective project in the name section, followed by information about said community, and lastly the link to us.
+### Legend: All services will link to the homepage of their respective project in the name section, followed by information about said community, and lastly the link to us.
 
 # Ways to chat with us and the community as a whole.
 
