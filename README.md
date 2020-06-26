@@ -76,17 +76,18 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Briar_(software)).*
 
-### [Jitsi](https://jitsi.org) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternative to Zoom* — Jitsi is a collection of free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android.
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi).*
-
 ### [Delta Chat](https://delta.chat/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number.**
 
 *Alternative to WhatsApp* — Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account.
 
 *Text from [delta.chat](https://delta.chat/en/).*
+
+
+### [Jitsi](https://jitsi.org) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Zoom* — Jitsi is a collection of free and open-source multiplatform voice (VoIP), videoconferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi).*
 
 
 ## Miscellaneous services
