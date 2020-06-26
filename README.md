@@ -52,25 +52,25 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Zulip).*
 
-### [Telegram](https://telegram.org/) [![Generic badge](https://img.shields.io/badge/FOSS-Not_Fully-red.svg)](https://img.shields.io/badge/FOSS-Not_Fully-red.svg)
+### [Telegram](https://telegram.org/) [![Generic badge](https://img.shields.io/badge/FOSS-Not_Fully-red.svg)](https://img.shields.io/badge/FOSS-Not_Fully-red.svg) **Requires a phone number.**
 
 *Alternative to WhatsApp* — Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows, macOS and Linux.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Telegram_(software))*
 
-### [Signal](https://signal.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Signal](https://signal.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Requires a phone number.**
 
 *Alternative to WhatsApp/SMS* — Signal is a cross-platform encrypted messaging service developed by the Signal Foundation and Signal Messenger LLC. It uses the Internet to send one-to-one and group messages, which can include files, voice notes, images and videos. Its mobile apps can also make one-to-one voice and video calls 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Signal_(software)).*
 
-### [Session](https://getsession.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number**
+### [Session](https://getsession.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number.**
 
 *Alternative to WhatsApp* — Session masters the usual chat functions. There are voice messages, a GIF search (with privacy warning), file sharing and group chats. You can add new contacts by scanning a QR code or exchanging the session ID. You can share your groups via a link. Another advantage over Signal or Telegram is end-to-end encrypted group chats. Up to ten people can network fully anonymously via session. Yes, WhatsApp also has encrypted group chats. But your metadata, phone numbers, and IP addresses remain visible to Facebook. Session is completely unsuspecting.
 
 *Text from [AndroidPIT](https://www.androidpit.com/session-messenger-review).*
 
-### [Briar](https://code.briarproject.org/briar/briar) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Briar](https://code.briarproject.org/briar/briar) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Requires a phone number.**
 
 *Alternative to WhatsApp* — Briar is an open-source software communication technology, intended to provide secure and resilient peer-to-peer communications with no centralized servers and minimal reliance on external infrastructure. Connections are made through bluetooth, WiFi, or over the internet via Tor and all private communication is end-to-end encrypted.
 
@@ -82,17 +82,12 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi).*
 
-### [Delta Chat](https://delta.chat/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number**
+### [Delta Chat](https://delta.chat/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number.**
 
 *Alternative to WhatsApp* — Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account.
 
 *Text from [delta.chat](https://delta.chat/en/).*
 
-### [K-9 Mail](https://k9mail.app/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternative to Gmail/Outlook* — K-9 Mail is an independent email application for the Android operating system. It is made available as Free/Open Source Android Software under the Apache License version 2.0. The program is marketed as a more functional replacement for the default mail application included on most phones.
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/K-9_Mail).*
 
 ## Miscellaneous services
 
@@ -101,6 +96,12 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 *Alternative to Google Maps & similar services* — (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data. Enjoy voice and optical navigation, viewing POIs (points of interest), creating and managing GPX tracks, using contour lines visualization and altitude info, a choice between driving, cycling, pedestrian modes, OSM editing and much more.
 
 *Text from [F-Droid](https://f-droid.org/en/packages/net.osmand.plus/)*
+
+### [K-9 Mail](https://k9mail.app/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Gmail/Outlook* — K-9 Mail is an independent email application for the Android operating system. It is made available as Free/Open Source Android Software under the Apache License version 2.0. The program is marketed as a more functional replacement for the default mail application included on most phones.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/K-9_Mail).*
 
 ### [Nextcloud](https://nextcloud.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
