@@ -149,30 +149,40 @@ Nextcloud application functionally is similar to Dropbox, Office 365 or Google D
 *Alternative to Google Search* — searx is a free metasearch engine, available under the GNU Affero General Public License version 3, with the aim of protecting the privacy of its users. To this end, searx does not share users' IP addresses or search history with the search engines from which it gathers results. Tracking cookies served by the search engines are blocked
 
 **Main Searx Instances**
+https://searx.xyz
 https://searx.me/
 https://searx.be/
 https://searx.ninja/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Searx).*
 
-### [LibreOffice](https://www.libreoffice.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [OnlyOffice Community Edition](https://www.onlyoffice.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [LibreOffice](https://www.libreoffice.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
-*Alternatives to Microsoft Office* — LibreOffice: LibreOffice is a free and open-source office suite, a project of The Document Foundation. 
+*Alternative to Microsoft Office* — LibreOffice: LibreOffice is a free and open-source office suite, a project of The Document Foundation. 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/LibreOffice).*
 
-OnlyOffice: ONLYOFFICE is a project developed by experienced IT experts from Ascensio System SIA, leading IT company with headquarters in Riga, Latvia. Originally ONLYOFFICE was designed for internal team collaboration.
+### [OnlyOffice Community Edition](https://www.onlyoffice.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Microsoft Office* — ONLYOFFICE is a project developed by experienced IT experts from Ascensio System SIA, leading IT company with headquarters in Riga, Latvia. Originally ONLYOFFICE was designed for internal team collaboration.
 
 *Text from [OnlyOffice](https://www.onlyoffice.com/about.aspx).*
 
+### [Darktable](https://www.darktable.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
-### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [Krita](https://krita.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+*Alternative to Adobe Lightroom* — darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
 
-*Alternatives to Photoshop* — GIMP: GNU Image Manipulation Program is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. 
+*Text from [Darktable](https://www.darktable.org/).*
+
+### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Photoshop* — GIMP: GNU Image Manipulation Program is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/GIMP).*
 
-Krita: Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks (similar to Adobe Photoshop), group-based layer management, vector artwork support and switchable customisation profiles. 
+### [Krita](https://krita.org/en/)  [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Photoshop* — Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks (similar to Adobe Photoshop), group-based layer management, vector artwork support and switchable customisation profiles. 
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Krita)*
 
@@ -182,13 +192,15 @@ Krita: Krita is a free and open-source raster graphics editor designed primarily
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Inkscape).*
 
-### [BitWarden](https://bitwarden.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) & [KeePassXC](https://keepassxc.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [BitWarden](https://bitwarden.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
-*Alternatives to Proprietary Password Managers* — Bitwarden: Bitwarden is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault. The Bitwarden platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a CLI.
+*Alternative to Proprietary Password Managers* — Bitwarden: Bitwarden is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault. The Bitwarden platform offers a variety of client applications including a web interface, desktop applications, browser extensions, mobile apps, and a CLI.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Bitwarden).*
 
-KeePassXC: The Electronic Frontier Foundation mention KeePassXC as "an example of a password manager that is open-source and free."The tech collective PrivacyTools has included KeePassXC in their list of recommended password manager software because of its active development.
+### [KeePassXC](https://keepassxc.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Proprietary Password Managers* — The Electronic Frontier Foundation mention KeePassXC as "an example of a password manager that is open-source and free."The tech collective PrivacyTools has included KeePassXC in their list of recommended password manager software because of its active development.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/KeePassXC).*
 
