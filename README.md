@@ -174,6 +174,12 @@ https://searx.ninja/
 
 *Text from [Darktable](https://www.darktable.org/).*
 
+### [Darktable](https://www.darktable.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Adobe Lightroom* \u2014 darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
+
+*Text from [Darktable](https://www.darktable.org/).*
+
 ### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Photoshop* — GIMP: GNU Image Manipulation Program is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. 
