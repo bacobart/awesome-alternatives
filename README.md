@@ -1,7 +1,7 @@
 # Awesome Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech) [![delightful](https://codeberg.org/LinuxCafeFederation/awesome-alternatives/raw/branch/master/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
 
 A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) and services. Some of the software below has proprietary backend, and only the application or the frontend the user interacts with is open source. 
----
+
 ## [Social media](https://en.wikipedia.org/wiki/Social_media)
 
 ### [PeerTube](https://joinpeertube.org/instances) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
@@ -40,13 +40,13 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Alternative to Discord* — Matrix is an open standard and lightweight protocol for real-time communication. It is designed to allow users with accounts at one communications service provider to communicate with users of a different service provider via online chat, voice over IP, and videotelephony. The most popular way to interact with matrix is through [Riot](https://riot.im/)
 
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol).*
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol)).*
 
 ### [Jami](https://jami.net/)
 
 *Alternative to Discord/WhatsApp* — Jami is a SIP-compatible distributed peer-to-peer softphone and SIP-based instant messenger for Linux, Microsoft Windows, OS X, iOS, and Android. Developed and maintained by the Canadian company Savoir-faire Linux, and with the help of a global community of users and contributors, Jami positions itself as a potential free Skype replacement.
 
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jami_(software).*
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Jami_(software)).*
 
 ### [Mattermost](https://mattermost.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
