@@ -72,7 +72,7 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Signal_(software)).*
 
-### [Session](https://getsession.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number.**
+### [Session](https://getsession.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) 
 
 *Alternative to WhatsApp* — Session masters the usual chat functions. There are voice messages, a GIF search (with privacy warning), file sharing and group chats. You can add new contacts by scanning a QR code or exchanging the session ID. You can share your groups via a link. Another advantage over Signal or Telegram is end-to-end encrypted group chats. Up to ten people can network fully anonymously via session. Yes, WhatsApp also has encrypted group chats. But your metadata, phone numbers, and IP addresses remain visible to Facebook. Session is completely unsuspecting.
 
@@ -84,7 +84,7 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Briar_(software)).*
 
-### [Delta Chat](https://delta.chat/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Does not require a phone number.**
+### [Delta Chat](https://delta.chat/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) 
 
 *Alternative to WhatsApp* — Delta Chat doesn’t have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat! All you need is a standard e-mail account.
 
