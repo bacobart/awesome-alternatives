@@ -212,8 +212,10 @@ https://searx.ninja/
 
 ## External sources
 
-### [samedamci / FOSS_Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff)
+### [LinuxCafe - Delightful Privacy](https://gitlab.com/linuxcafefederation/Delightful-Privacy) 
+This is a collection of software, operating systems, and other miscellaneous tools to help the average user fight for their privacy and security online. 
 
+### [samedamci - FOSS_Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff)
 A more in-depth list of free and open source software ranging from Android, to Windows, to Linux with a bonus of some tips and tricks!
 
 Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https://gitlab.com/samedamci/FOSS_Stuff), and [Gitea](https://git.samedamci.me/samedamci/FOSS_Stuff).*
