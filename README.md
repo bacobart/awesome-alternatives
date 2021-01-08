@@ -44,7 +44,7 @@ Ruqqus is an open-source platform for online communities, free of censorship and
 
 ### [Matrix](https://matrix.org/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
-*Alternative to Discord* — Matrix is an open standard and lightweight protocol for real-time communication. It is designed to allow users with accounts at one communications service provider to communicate with users of a different service provider via online chat, voice over IP, and videotelephony. The most popular way to interact with matrix is through [Riot](https://riot.im/)
+*Alternative to Discord* — Matrix is an open standard and lightweight protocol for real-time communication. It is designed to allow users with accounts at one communications service provider to communicate with users of a different service provider via online chat, voice over IP, and videotelephony. The most popular way to interact with matrix is through [Element](https://element.io/)
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol)).*
 
@@ -84,7 +84,7 @@ Ruqqus is an open-source platform for online communities, free of censorship and
 
 *Text from [AndroidPIT](https://www.androidpit.com/session-messenger-review).*
 
-### [Briar](https://code.briarproject.org/briar/briar) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg) **Requires a phone number.**
+### [Briar](https://code.briarproject.org/briar/briar) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to WhatsApp* — Briar is an open-source software communication technology, intended to provide secure and resilient peer-to-peer communications with no centralized servers and minimal reliance on external infrastructure. Connections are made through bluetooth, WiFi, or over the internet via Tor and all private communication is end-to-end encrypted.
 
@@ -219,3 +219,11 @@ This is a collection of software, operating systems, and other miscellaneous too
 A more in-depth list of free and open source software ranging from Android, to Windows, to Linux with a bonus of some tips and tricks!
 
 Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https://gitlab.com/samedamci/FOSS_Stuff), and [Gitea](https://git.samedamci.me/samedamci/FOSS_Stuff).*
+
+## Linux to Linux Café
+
+- [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
+- [Linux Café Discord](https://discord.gg/YY4zrNR)
+- [Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
+- [Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
+- [Linux Café Reddit](https://reddit.com/r/linuxcafe)
