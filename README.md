@@ -219,6 +219,9 @@ Inspired by the Invidious project. [GitHub](https://github.com/zedeus/nitter) Ad
 ### [Teddit](https://teddit.net/)
 Teddit is a free and open source alternative Reddit front-end focused on privacy. Teddit doesn't require you to have JavaScript enabled in your browser. The source is available on [Codeberg](https://codeberg.org/teddit/teddit).
 
+### [LibReddit](https://libredd.it/)
+Private front-end for Reddit written in Rust. [GitHub](https://github.com/spikecodes/libreddit#how-does-it-compare-to-teddit)
+
 ## External sources
 
 ### [LinuxCafe - Delightful Privacy](https://gitlab.com/linuxcafefederation/Delightful-Privacy) 
