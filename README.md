@@ -210,6 +210,15 @@ https://searx.ninja/
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/KeePassXC).*
 
+## Other - This is for alternatives, that while work, aren't full replacements.
+
+### [Nitter](https://nitter.net/)
+A free and open source alternative Twitter front-end focused on privacy.
+Inspired by the Invidious project. [GitHub](https://github.com/zedeus/nitter) Addons: [FireFox](https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect/) | [Chrome(ium)](https://chrome.google.com/webstore/detail/nitter-redirect/mohaicophfnifehkkkdbcejkflmgfkof)
+
+### [Teddit](https://teddit.net/)
+Teddit is a free and open source alternative Reddit front-end focused on privacy. Teddit doesn't require you to have JavaScript enabled in your browser. The source is available on [Codeberg](https://codeberg.org/teddit/teddit).
+
 ## External sources
 
 ### [LinuxCafe - Delightful Privacy](https://gitlab.com/linuxcafefederation/Delightful-Privacy) 
