@@ -48,7 +48,7 @@ Ruqqus is an open-source platform for online communities, free of censorship and
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol)).*
 
-### [Jami](https://jami.net/)
+### [Jami](https://jami.net/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Discord/WhatsApp* — Jami is a SIP-compatible distributed peer-to-peer softphone and SIP-based instant messenger for Linux, Microsoft Windows, OS X, iOS, and Android. Developed and maintained by the Canadian company Savoir-faire Linux, and with the help of a global community of users and contributors, Jami positions itself as a potential free Skype replacement.
 
