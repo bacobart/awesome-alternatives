@@ -322,7 +322,7 @@ https://searx.ninja/
 
 ### [7zip/p7zip](https://www.7-zip.org/)
 
-7-Zip is free software with open source. The most of the code is under the GNU LGPL license. Some parts of the code are under the BSD 3-clause License. Also there is unRAR license restriction for some parts of the code. Read 7-Zip License information.
+*Alternative to WinRAR* - 7-Zip is free software with open source. The most of the code is under the GNU LGPL license. Some parts of the code are under the BSD 3-clause License. Also there is unRAR license restriction for some parts of the code. Read 7-Zip License information.
 
 *Text from 7zip homepage*
 
