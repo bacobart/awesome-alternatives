@@ -1,6 +1,18 @@
 # Awesome Alternatives [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech) [![delightful](https://codeberg.org/LinuxCafeFederation/awesome-alternatives/raw/branch/master/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
 
-A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) and services. Some of the software below has proprietary backend, and only the application or the frontend the user interacts with is open source. 
+
+A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternatives to [proprietary software](https://en.wikipedia.org/wiki/Proprietary_software) and services. Some of the software below has proprietary backend, and only the application or the frontend the user interacts with is open source.
+
+## Contents
+
+- [Social Media](#social-media)
+- [Communication Platforms](#communication-platforms)
+- [Photo Editing](#photo-editing)
+- [Media Players](#media-players)
+- [Audio & Video Editing Software](#audio-&-video-editing-software)
+- [Android App Stores](#android-app-stores)
+- [Open-Source CAD software](#open-source-cad-software)
+- [Miscellaneous services](#miscellaneous-services)
 
 ## [Social media](https://en.wikipedia.org/wiki/Social_media)
 
