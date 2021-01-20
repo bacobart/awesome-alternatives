@@ -149,7 +149,7 @@ Audacious is an open source audio player.
 
 *Text from Audacious homepage*
 
-## [Cantata](https://github.com/cdrummond/cantata) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Cantata](https://github.com/cdrummond/cantata) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Qt5 Graphical MPD Client 
 
@@ -157,33 +157,33 @@ Qt5 Graphical MPD Client
 
 ## Audio & Video Editing Software
 
-## [Audacity](https://www.audacityteam.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Audacity](https://www.audacityteam.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
 Developed by a group of volunteers as open source.
 
 *Text from Audacity homepage*
 
-## [Ardour](https://ardour.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Ardour](https://ardour.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers. Development is transparent — anyone can watch our work as it happens. Like a good piece of vintage hardware, you can open the box and look inside.
 
 *Text from Ardour homepage*
 
-## [Mixxx](https://mixxx.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Mixxx](https://mixxx.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Mixxx integrates the tools DJs need to perform creative live mixes with digital music files.
 Whether you are a new DJ with just a laptop or an experienced turntablist, Mixxx can support your style and techniques of mixing.
 
 *Text from Mixxx homepage*
 
-## [Kdenlive](https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Kdenlive](https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Open source video editor. Free and easy to use for any purpose, forever.
 
 *Text from Kdenlive homepage*
 
-## [Shotcut](https://www.shotcut.org/) (https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Shotcut](https://www.shotcut.org/) (https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Shotcut is a free, open source, cross-platform video editor.
 
