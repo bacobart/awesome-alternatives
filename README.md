@@ -50,7 +50,7 @@ Ruqqus is an open-source platform for online communities, free of censorship and
 
 ### [Jami](https://jami.net/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
-*Alternative to Discord/WhatsApp* — Jami is a SIP-compatible distributed peer-to-peer softphone and SIP-based instant messenger for Linux, Microsoft Windows, OS X, iOS, and Android. Developed and maintained by the Canadian company Savoir-faire Linux, and with the help of a global community of users and contributors, Jami positions itself as a potential free Skype replacement.
+*Alternative to WhatsApp* — Jami is a SIP-compatible distributed peer-to-peer softphone and SIP-based instant messenger for Linux, Microsoft Windows, OS X, iOS, and Android. Developed and maintained by the Canadian company Savoir-faire Linux, and with the help of a global community of users and contributors, Jami positions itself as a potential free Skype replacement.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Jami_(software)).*
 
@@ -103,6 +103,113 @@ Ruqqus is an open-source platform for online communities, free of censorship and
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/Jitsi).*
 
+## Photo Editing
+
+### [Darktable](https://www.darktable.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Adobe Lightroom* — darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
+
+*Text from [Darktable](https://www.darktable.org/).*
+
+### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Photoshop* — GIMP: GNU Image Manipulation Program is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/GIMP).*
+
+### [Krita](https://krita.org/en/)  [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Photoshop* — Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks (similar to Adobe Photoshop), group-based layer management, vector artwork support and switchable customisation profiles. 
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Krita)*
+
+### [Inkscape](https://inkscape.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternatives to Adobe Illiustrator* — Inkscape is a free and open-source vector graphics editor. Inkscape's primary vector graphics format is Scalable Vector Graphics (SVG); other formats can be imported and exported.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/Inkscape).*
+
+## Media Players
+
+### [VLC](https://www.videolan.org/vlc/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. 
+
+*Text from VLC homepage*
+
+### [MPV](https://mpv.io/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. 
+
+*Text from MPV homepage*
+
+### [Audacious](https://audacious-media-player.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Audacious is an open source audio player.
+
+*Text from Audacious homepage*
+
+## [Cantata](https://github.com/cdrummond/cantata) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Qt5 Graphical MPD Client 
+
+*Text from GitHub page*
+
+## Audio & Video Editing Software
+
+## [Audacity](https://www.audacityteam.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+Developed by a group of volunteers as open source.
+
+*Text from Audacity homepage*
+
+## [Ardour](https://ardour.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers. Development is transparent — anyone can watch our work as it happens. Like a good piece of vintage hardware, you can open the box and look inside.
+
+*Text from Ardour homepage*
+
+## [Mixxx](https://mixxx.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Mixxx integrates the tools DJs need to perform creative live mixes with digital music files.
+Whether you are a new DJ with just a laptop or an experienced turntablist, Mixxx can support your style and techniques of mixing.
+
+*Text from Mixxx homepage*
+
+## [Kdenlive](https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Open source video editor. Free and easy to use for any purpose, forever.
+
+*Text from Kdenlive homepage*
+
+## [Shotcut](https://www.shotcut.org/) (https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Shotcut is a free, open source, cross-platform video editor.
+
+*Text from Shotcut homepage*
+
+## Android App Stores
+
+### [AuroraOSS](https://auroraoss.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*Alternative to Google Play* — Aurora Store is an Unofficial FOSS client to Google's Play Store
+
+*Text from [AuroraOSS](https://auroraoss.com/).*
+
+### [F-Droid](https://f-droid.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+*[OSS](https://en.wikipedia.org/wiki/Open-source_software) Alternative to Google Play* — F-Droid is a community-maintained software repository for Android, similar to the Google Play store. The main repository, hosted by the project, contains only free/libre apps.
+
+*Text from [Wikipedia](https://en.wikipedia.org/wiki/F-Droid).*
+
+### [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
+
+### [Foxy Droid](https://github.com/kitsunyan/foxy-droid) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+Another F-Droid client.
 
 ## Miscellaneous services
 
@@ -138,18 +245,6 @@ Nextcloud application functionally is similar to Dropbox, Office 365 or Google D
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/LimeSurvey).*
 
-### [AuroraOSS](https://auroraoss.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternative to Google Play* — Aurora Store is an Unofficial FOSS client to Google's Play Store
-
-*Text from [AuroraOSS](https://auroraoss.com/).*
-
-### [F-Droid](https://f-droid.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*[OSS](https://en.wikipedia.org/wiki/Open-source_software) Alternative to Google Play* — F-Droid is a community-maintained software repository for Android, similar to the Google Play store. The main repository, hosted by the project, contains only free/libre apps.
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/F-Droid).*
-
 ### [Searx](https://en.wikipedia.org/wiki/Searx) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Google Search* — searx is a free metasearch engine, available under the GNU Affero General Public License version 3, with the aim of protecting the privacy of its users. To this end, searx does not share users' IP addresses or search history with the search engines from which it gathers results. Tracking cookies served by the search engines are blocked
@@ -173,30 +268,6 @@ https://searx.ninja/
 *Alternative to Microsoft Office* — ONLYOFFICE is a project developed by experienced IT experts from Ascensio System SIA, leading IT company with headquarters in Riga, Latvia. Originally ONLYOFFICE was designed for internal team collaboration.
 
 *Text from [OnlyOffice](https://www.onlyoffice.com/about.aspx).*
-
-### [Darktable](https://www.darktable.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternative to Adobe Lightroom* — darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
-
-*Text from [Darktable](https://www.darktable.org/).*
-
-### [GIMP](https://www.gimp.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternative to Photoshop* — GIMP: GNU Image Manipulation Program is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks. 
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/GIMP).*
-
-### [Krita](https://krita.org/en/)  [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternative to Photoshop* — Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks (similar to Adobe Photoshop), group-based layer management, vector artwork support and switchable customisation profiles. 
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Krita)*
-
-### [Inkscape](https://inkscape.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-*Alternatives to Adobe Illiustrator* — Inkscape is a free and open-source vector graphics editor. Inkscape's primary vector graphics format is Scalable Vector Graphics (SVG); other formats can be imported and exported.
-
-*Text from [Wikipedia](https://en.wikipedia.org/wiki/Inkscape).*
 
 ### [BitWarden](https://bitwarden.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
@@ -232,7 +303,7 @@ A more in-depth list of free and open source software ranging from Android, to W
 
 Mirrors in: *[GitHub](https://github.com/samedamci/FOSS_Stuff)* ,*[GitLab](https://gitlab.com/samedamci/FOSS_Stuff), and [Gitea](https://git.samedamci.me/samedamci/FOSS_Stuff).*
 
-## Linux to Linux Café
+## Links to Linux Café
 
 - [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
 - [Linux Café Discord](https://discord.gg/YY4zrNR)
