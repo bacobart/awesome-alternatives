@@ -211,6 +211,45 @@ Fork of the F-Droid client with external repos ready to sync (Root permission is
 
 Another F-Droid client.
 
+## Open-Source CAD software
+
+### [Salome](https://www.salome-platform.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+SALOME is an open-source software that provides a generic Pre- and Post-Processing platform for numerical simulation. It is based on an open and flexible architecture made of reusable components.
+
+*Text from Salome homepage*
+
+### [BRL-CAD](https://brlcad.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+
+BRL-CAD is a powerful open source cross-platform solid modeling system that includes interactive geometry editing, high-performance ray-tracing for rendering and geometric analysis, a system performance analysis benchmark suite, geometry libraries for application developers, and more than 30 years of active development. 
+
+*Text from BRL-CAD homepage*
+
+### [FreeCAD](https://www.freecadweb.org/)
+
+FreeCAD is an open-source parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. 
+
+*Text from FreeCAD homepage*
+
+### [LibreCAD](https://librecad.org/)
+
+LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
+
+*Text from LibreCAD*
+
+### [OpenSCAD](https://www.openscad.org/)
+
+OpenSCAD is software for creating solid 3D CAD objects.
+It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
+
+*Text from OpenSCAD homepage*
+
+### [OpenCascade](https://www.opencascade.com/)
+
+Open Cascade is a software development company which is focused on digital transformation of industries through the use of 3D technologies. 
+
+*Text from OpenCascade About Us*
+
 ## Miscellaneous services
 
 ### [OsmAnd~](https://osmand.net/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
@@ -280,6 +319,12 @@ https://searx.ninja/
 *Alternative to Proprietary Password Managers* — The Electronic Frontier Foundation mention KeePassXC as "an example of a password manager that is open-source and free."The tech collective PrivacyTools has included KeePassXC in their list of recommended password manager software because of its active development.
 
 *Text from [Wikipedia](https://en.wikipedia.org/wiki/KeePassXC).*
+
+### [7zip/p7zip](https://www.7-zip.org/)
+
+7-Zip is free software with open source. The most of the code is under the GNU LGPL license. Some parts of the code are under the BSD 3-clause License. Also there is unRAR license restriction for some parts of the code. Read 7-Zip License information.
+
+*Text from 7zip homepage*
 
 ## Other - This is for alternatives, that while work, aren't full replacements.
 
