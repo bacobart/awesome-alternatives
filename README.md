@@ -183,7 +183,7 @@ Open source video editor. Free and easy to use for any purpose, forever.
 
 *Text from Kdenlive homepage*
 
-### [Shotcut](https://www.shotcut.org/) (https://kdenlive.org/en/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
+### [Shotcut](https://www.shotcut.org/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 Shotcut is a free, open source, cross-platform video editor.
 
