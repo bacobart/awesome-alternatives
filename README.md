@@ -34,12 +34,6 @@ A curated list of mostly [*free* and open source](https://en.wikipedia.org/wiki/
 
 *Text from [GitHub](https://github.com/LemmyNet/lemmy).*
 
-### [ruqqus](https://ruqqus.com/) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
-
-Ruqqus is an open-source platform for online communities, free of censorship and moderator abuse by design.
-
-*Text from [GitHub](https://github.com/ruqqus/ruqqus).*
-
 ### [Pixelfed](https://pixelfed.social/) [![Generic badge](https://img.shields.io/badge/Federated-brightgreen.svg)](https://img.shields.io/badge/Federated-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/FOSS-OSS-blue.svg)](https://img.shields.io/badge/FOSS-OSS-blue.svg)
 
 *Alternative to Instagram* — A free and ethical photo sharing platform, powered by ActivityPub federation.
